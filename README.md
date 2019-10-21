@@ -1,1 +1,6 @@
-# esm206_lab4_part2_BF
+# This is my awesome README
+
+Bret Lab 4 Part 2
+ - point 1
+ - point 2
+ - point 3
